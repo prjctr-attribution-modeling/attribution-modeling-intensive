@@ -1,2 +1,2 @@
 # attribution-modeling-intensive
-Materials for Projector Attribution Modeling intensive
+Codebase for the intensive on Projector platform - Data Analytics. Attribution modeling
