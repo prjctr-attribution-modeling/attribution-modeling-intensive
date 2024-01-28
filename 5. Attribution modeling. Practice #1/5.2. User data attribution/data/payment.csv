@@ -1,0 +1,2 @@
+id,txn_id,time,user_id,product_id,paid_amount
+1,000001,2023-12-13 00:00:03.4,5,2,10000
