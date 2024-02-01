@@ -1,10 +1,10 @@
 dim,name,code
+Target Audience,STUDENT,stu
+Target Audience,CURATOR,cur
 Channel,REFERRAL,referral
 Channel,BRAND,brand
 Channel,PAID SOCIAL,ps
 Channel,SEM,sem
-Target Audience,STUDENT,stu
-Target Audience,CURATOR,cur
 Target Geo,ALL,all
 Target Geo,UKRAINE,ua
 Target Geo,POLAND,pl
@@ -17,6 +17,7 @@ Target Device,ANDROID,and
 Target Device,IOS,ios
 Target Device,MOBILE,mweb
 Target Device,DESKTOP,dweb
+Product,MULTIPLE PRODUCTS,multiple
 Product,SQL,sql
 Product,AI,ai
 Product,PYTHON,py
