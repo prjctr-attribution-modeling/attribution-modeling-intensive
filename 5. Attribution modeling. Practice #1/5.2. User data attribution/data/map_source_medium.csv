@@ -1,2 +1,7 @@
 channel,source_medium,keyword_referer,keyword_landing_page
-SEM,google / cpc,google,network=g
+DIRECT,(direct) / (none),https://curator.com,
+ORGANIC,google / organic,google,google
+PAID SOCIAL,facebook / cpc,facebook,facebook
+PAID SOCIAL,facebook / cpc,fb,
+SEM,google / cpc,,gclid=
+
