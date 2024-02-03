@@ -9,8 +9,8 @@ CREATE OR REPLACE TABLE dim_campaign (
     account_id varchar(128),
     source_medium varchar(128),
     channel varchar(128),
-	target_audience varchar(128),
-	target_geo varchar(128),
-	target_device varchar(128),
-	product varchar(128)
+    target_audience varchar(128),
+    target_geo varchar(128),
+    target_device varchar(128),
+    product varchar(128)
 )
