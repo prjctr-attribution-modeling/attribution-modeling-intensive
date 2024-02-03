@@ -15,8 +15,8 @@ CREATE OR REPLACE TABLE rep_marketing_performance(
     source_medium varchar(128),
     target_audience varchar(128),
     target_geo varchar(128),
-	target_device varchar(128),
-	product varchar(128),
+    target_device varchar(128),
+    product varchar(128),
     impressions integer,
     clicks integer,
     spend numeric(38,2)
