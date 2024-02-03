@@ -1,6 +1,9 @@
 --============TASK============--
 --1. UNION all marketing performance data
 --2. Enrich with attributes extracted from campaign name
+--3. For Google marketing data:
+--3.1. Use map_country to get value of country_code
+--3.2. Google marketing spend = cost_micros/1000000
 
 -- rep_marketing_performance DDL
 CREATE OR REPLACE TABLE rep_marketing_performance(
