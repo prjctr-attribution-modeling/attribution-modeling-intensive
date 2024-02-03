@@ -1,4 +1,4 @@
-segemnt_date,customer_id,customer_descriptive_name,campaign_id,camapign_name,country_criterion_id,segemnt_device,impressions,clicks,cost_micros
+segment_date,customer_id,customer_descriptive_name,campaign_id,campaign_name,country_criterion_id,segment_device,impressions,clicks,cost_micros
 2023-10-01,"19977995274",SEM,"11037608",cur_sem_all_web_python,2840,DESKTOP,199,8,17952006.50
 2023-10-01,"19977995274",SEM,"11037608",cur_sem_all_web_python,2124,DESKTOP,5,2,1845000.00
 2023-10-01,"19977995274",SEM,"11037608",cur_sem_all_web_python,2840,DESKTOP,6,2,1730000.00
