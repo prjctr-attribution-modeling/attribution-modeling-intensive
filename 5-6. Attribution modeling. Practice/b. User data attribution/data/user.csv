@@ -8,20 +8,20 @@ id,join_ts,device_type,country_code,region,city,landing_page,referer
 7,2023-10-02 19:49:24.5,desktop,UA,Kyiv City,Kyiv,https://curator.com/courses/python,
 8,2023-10-02 20:17:08.3,desktop,UA,Kyiv City,Kyiv,https://curator.com/ua/,https://curator.com/courses/python
 9,2023-10-02 22:39:33.8,desktop,US,California,Oceanside,https://curator.com/courses/python/curator?campaignid=12373469278&network=g&keyword=python&utm_source=google&utm_medium=cpc&utm_campaign=cur_sem_all_web_python&gclid=Cj0KYGSHCZ0Bp08f_-7-aeParubgQAOih0aAoGYEALw_wcB,https://www.google.com/
-10,2023-10-03 05:59:37.1,mobile,UA,Kyiv City,Kyiv,https://curator.com/courses/ml,https://curator.com/courses
+10,2023-10-03 05:59:37.1,mobile,UA,Kyiv City,Kyiv,https://curator.com/courses/python,https://curator.com/courses
 11,2023-10-03 06:31:49.4,mobile,UA,Kyiv City,Kyiv,https://curator.com,
-12,2023-10-03 10:37:39.9,desktop,UA,Kyiv City,Kyiv,https://curator.com/courses/python,https://curator.com
+12,2023-10-03 10:37:39.9,desktop,UA,Kyiv City,Kyiv,https://curator.com/courses/ai,https://curator.com
 13,2023-10-03 12:45:39.8,desktop,UA,Kyiv City,Kyiv,https://curator.com,https://www.google.com/
 14,2023-10-04 07:08:45.7,mobile,UA,Kyiv City,Kyiv,https://curator.com/courses/sql,
 15,2023-10-04 11:08:07.9,desktop,UA,Kyiv City,Kyiv,https://curator.com/?logged_out=y,https://curator.com/courses
 16,2023-10-05 08:16:55.4,mobile,UA,Kyiv City,Kyiv,https://curator.com/courses/ai/curator,https://www.google.com/
-17,2023-10-05 11:24:39.5,mobile,UA,Ternopil Oblast,Ternopil,https://curator.com/checkout/14103052,https://curator.com/courses/python
-18,2023-10-05 11:36:20.2,desktop,UA,Dnipropetrovsk Oblast,Dnipro,https://curator.com/courses/react?campaignid=11945415&network=g&keyword=react&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gbraid=0AAAAADc1&gclid=CjwKCAG2tqzMuSPgKZD09zYM5oCxqMQAvD_BwE,https://www.google.com/
+17,2023-10-05 11:24:39.5,mobile,UA,Ternopil Oblast,Ternopil,https://curator.com/,https://curator.com/courses/python
+18,2023-10-05 11:36:20.2,desktop,UA,Dnipropetrovsk Oblast,Dnipro,https://curator.com/courses/python?campaignid=11945415&network=g&keyword=react&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gbraid=0AAAAADc1&gclid=CjwKCAG2tqzMuSPgKZD09zYM5oCxqMQAvD_BwE,https://www.google.com/
 19,2023-10-05 18:02:37.0,mobile,US,North Carolina,Fuquay-Varina,https://curator.com/courses,https://curator.com
 20,2023-10-06 08:22:08.2,mobile,UA,Kyiv City,Kyiv,https://curator.com/courses/ml,https://www.google.com.ua/
 21,2023-10-06 09:09:16.8,mobile,UA,Kyiv City,Kyiv,https://curator.com/courses,
 22,2023-10-06 13:19:04.9,desktop,UA,Ivano-Frankivsk Oblast,Ivano-Frankivsk,https://curator.com,https://curator.com/settings
-23,2023-10-06 15:30:03.5,mobile,UA,Lviv Oblast,Lviv,https://curator.com/course/python?campaignid=11945415&network=g&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gbraid=0sOUjxRum03IRwJQ0CzrljIXTz9wWCbOhnK_2t8kN4vEaAksKEALw_wcB,https://www.google.com.ua/
+23,2023-10-06 15:30:03.5,mobile,UA,Lviv Oblast,Lviv,https://curator.com/course/sql?campaignid=11945415&network=g&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gbraid=0sOUjxRum03IRwJQ0CzrljIXTz9wWCbOhnK_2t8kN4vEaAksKEALw_wcB,https://www.google.com.ua/
 24,2023-10-07 09:25:17.6,mobile,UA,Kyiv Oblast,Kozyn,https://curator.com/curator,https://www.google.com/
 25,2023-10-07 11:47:11.6,mobile,UA,Kyiv City,Kyiv,https://curator.com/courses/react?campaignid=11945415&network=g&keyword=react&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gclid=CjwKCAjwg4Ew9jWAWPR5NgPS_qBoCBxoQAvD_BwE,https://www.google.com.ua/
 26,2023-10-08 06:19:40.3,desktop,UA,Kyiv City,Kyiv,https://curator.com/?campaignid=11037608&network=g&keyword=curator&utm_source=google&utm_medium=cpc&utm_campaign=cur_sem_all_web_python&gclid=CjwKCAjwg4SnYRy6Cd0lj5mIa3VWTE1F4Lq-cKFuD3TmLoCMIMQAvD_BwE,https://www.google.com/
@@ -30,14 +30,14 @@ id,join_ts,device_type,country_code,region,city,landing_page,referer
 29,2023-10-08 15:20:12.4,mobile,PL,Mazovia,Warsaw,https://curator.com,
 30,2023-10-08 17:03:39.1,mobile,UA,Kyiv City,Kyiv,https://curator.com/course/sql?campaignid=11945415&network=g&keyword=sql&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gclid=Cj0KCQRIsAFD_Fp-hSZCX-k6OQEcGRivzbG1nAhe_rKd8EALw_wcB,https://www.google.com/
 31,2023-10-08 23:18:36.0,desktop,PL,Greater Poland,Leszno,https://curator.com/courses,
-32,2023-10-09 02:07:13.6,mobile,PL,Lesser Poland,Krakow,https://curator.com/courses/sql?campaignid=11945415&network=g&keyword=sql&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gbraid=0APtrBJc9WnSadW&gcpBhDZARIsAFD_Fb3h4srhu1WPqm9NtnMaArGcEALw_wcB,https://www.google.com/
+32,2023-10-09 02:07:13.6,mobile,PL,Lesser Poland,Krakow,https://curator.com/courses/python?campaignid=11945415&network=g&keyword=sql&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gbraid=0APtrBJc9WnSadW&gcpBhDZARIsAFD_Fb3h4srhu1WPqm9NtnMaArGcEALw_wcB,https://www.google.com/
 33,2023-10-09 08:42:45.2,desktop,UA,Kyiv City,Kyiv,https://curator.com/,
-34,2023-10-09 11:52:10.1,mobile,UA,Dnipropetrovsk Oblast,Radushne,https://curator.com/course/python,https://curator.com/
+34,2023-10-09 11:52:10.1,mobile,UA,Dnipropetrovsk Oblast,Radushne,https://curator.com/course/ai,https://curator.com/
 35,2023-10-09 14:35:46.0,desktop,CA,Ontario,North York,https://curator.com/courses,
 36,2023-10-10 07:06:45.9,mobile,UA,Poltava Oblast,Kotelva,https://curator.com/,
-37,2023-10-10 07:52:15.1,tablet,UA,Vinnytsia,Vinnytsia,https://curator.com/ua/calendar,https://curator.com/courses
+37,2023-10-10 07:52:15.1,tablet,UA,Vinnytsia,Vinnytsia,https://curator.com/calendar,https://curator.com/courses
 38,2023-10-10 16:52:49.1,desktop,UA,Kirovohrad Oblast,Kropyvnytskyi,https://curator.com/,https://curator.com/courses
-39,2023-10-10 20:44:49.3,mobile,PL,Lower Silesia,Wroclaw,https://curator.com/courses/python?campaignid=11945415&utm_source=google&utm_medium=cpc&&utm_campaign=stu_sem_all_web_multiple&gclid=Cj0KCRIsALNfPl6wK_1k6RHJFrS7E58q_Jdz9M9fC8aAjhHEALw_wcB,https://www.google.com/
+39,2023-10-10 20:44:49.3,mobile,PL,Lower Silesia,Wroclaw,https://curator.com/courses/sql?campaignid=11945415&utm_source=google&utm_medium=cpc&&utm_campaign=stu_sem_all_web_multiple&gclid=Cj0KCRIsALNfPl6wK_1k6RHJFrS7E58q_Jdz9M9fC8aAjhHEALw_wcB,https://www.google.com/
 40,2023-10-10 23:13:06.5,desktop,UA,Lviv Oblast,Lviv,https://curator.com/,https://curator.com/blog
 41,2023-10-11 05:56:03.4,mobile,US,California,Fresno,https://curator.com/?campaignid=11945415&utm_source=google&utm_medium=cpc&&utm_campaign=stu_sem_all_web_multiple&gclid=Cj0KCQjw7JOpBhIVHEu4zKnJ9vSL-JjLzITaQZsZsFP1Q6_9TYYw_wcB,https://www.google.com/
 42,2023-10-12 16:06:28.0,mobile,UA,Lviv,Bryukhovychi,https://curator.com/courses/react,https://www.google.com/
@@ -54,7 +54,7 @@ id,join_ts,device_type,country_code,region,city,landing_page,referer
 53,2023-10-14 05:17:01.4,mobile,UA,Kharkiv,Kharkiv,https://curator.com/login,https://curator.com/login
 54,2023-10-14 12:53:39.0,mobile,UA,Lviv,Velyki Mosty,https://curator.com/courses/python,https://curator.com/courses/ml
 55,2023-10-14 13:54:13.1,mobile,UA,Zaporizhzhya Oblast,Zaporizhzhia,https://curator.com/courses,
-56,2023-10-14 16:37:28.9,desktop,UA,Lviv Oblast,Lviv,https://curator.com/courses/python?campaignid=11945415&&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gclid=CjwAjw-KipBWSAuS7wclHqeghxv6WpZWfHNJxoU0QAvD_BwE,https://www.google.com/
+56,2023-10-14 16:37:28.9,desktop,UA,Lviv Oblast,Lviv,https://curator.com/courses/ml?campaignid=11945415&&utm_source=google&utm_medium=cpc&utm_campaign=stu_sem_all_web_multiple&gclid=CjwAjw-KipBWSAuS7wclHqeghxv6WpZWfHNJxoU0QAvD_BwE,https://www.google.com/
 57,2023-10-14 17:30:54.5,mobile,UA,Kyiv City,Kyiv,https://curator.com/,https://www.google.com/
 58,2023-10-14 21:04:39.4,mobile,UA,Kyiv Oblast,Irpin,https://curator.com/courses/python,https://curator.com/login
 59,2023-10-15 11:43:02.9,mobile,UA,Kyiv City,Kyiv,https://curator.com/,
