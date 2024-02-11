@@ -1,4 +1,4 @@
-channel,source_medium,source,medium,keyword_referer,keyword_landing_page
+channel,source_medium,utm_source,utm_medium,keyword_referer,keyword_landing_page
 DIRECT,(direct) / (none),(direct),(none),https://curator.com,
 ORGANIC,google / organic,google,organic,google,google
 PAID SOCIAL,facebook / cpc,facebook,cpc,facebook,facebook
