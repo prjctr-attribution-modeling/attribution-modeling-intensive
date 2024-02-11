@@ -1,4 +1,4 @@
-id,txn_id,time,user_id,product_id,paid_amount
+id,txn_id,time,user_id,course_id,paid_amount
 1,00000001,2023-10-13 10:00:03.4,5,2,10000
 2,00000002,2023-10-13 14:28:18.5,8,1,12000
 3,00000003,2023-10-13 15:13:13.6,10,1,12000

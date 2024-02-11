@@ -12,5 +12,5 @@ CREATE OR REPLACE TABLE dim_campaign (
     target_audience varchar(128),
     target_geo varchar(128),
     target_device varchar(128),
-    product varchar(128)
+    target_course varchar(128)
 )
