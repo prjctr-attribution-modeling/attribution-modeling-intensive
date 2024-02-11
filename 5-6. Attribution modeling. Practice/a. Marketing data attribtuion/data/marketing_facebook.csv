@@ -1,4 +1,4 @@
-start_date,account_id,account_name,campaign_id,camapign_name,country,impressions,clicks,spend
+start_date,account_id,account_name,campaign_id,campaign_name,country,impressions,clicks,spend
 2023-10-01,"285138593451",ACQUISITION,"238545383146",stu_ps_all_web_python,PL,164,1,1.37
 2023-10-01,"285138593451",ACQUISITION,"238545383146",stu_ps_all_web_python,UA,1370,5,4.72
 2023-10-01,"285138593451",ACQUISITION,"238545383146",stu_ps_all_web_python,UA,97,1,0.82
