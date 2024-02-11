@@ -17,9 +17,9 @@ Target Device,ANDROID,and
 Target Device,IOS,ios
 Target Device,MOBILE,mweb
 Target Device,DESKTOP,dweb
-Product,MULTIPLE PRODUCTS,multiple
-Product,SQL,sql
-Product,AI,ai
-Product,PYTHON,py
-Product,REACT,react
-Product,ML,ml
+Target Course,MULTIPLE PRODUCTS,multiple
+Target Course,SQL,sql
+Target Course,AI,ai
+Target Course,PYTHON,py
+Target Course,REACT,react
+Target Course,ML,ml
