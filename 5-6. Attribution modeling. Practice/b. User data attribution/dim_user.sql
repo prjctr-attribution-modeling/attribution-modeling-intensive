@@ -1,8 +1,8 @@
---============TASK============--
---1. Parse landing page to get Host, Path, Query, utm_source, utm_medium, campaign_id and campaign_name
---2. Attribute source_medium using map_source_medium.csv
+--============Завдання============--
+--1. Розібрати значення landing page та отримати Host, Path, Query, utm_source, utm_medium, campaign_id and campaign_name
+--2. Використовуючи map_source_medium отримати відповідне значення source_medium
 
--- Useful Links
+-- Корисні посилання
 -- 1. https://github.com/count/sql-snippets/blob/main/postgres/regex-parse-url.md
 -- 2. https://regex101.com/
 
