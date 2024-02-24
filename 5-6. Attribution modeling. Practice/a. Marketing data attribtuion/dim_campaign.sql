@@ -1,6 +1,6 @@
---============TASK============--
---1. Collect all campaigns with parsed campaign name
---2. JOIN map_marketing_attribution ON campaign_name part to get attribute value
+--============ЗАВДАННЯ============--
+--1. Зібрати усі рекламні кампанії
+--2. Розпарсити назви кампаній та отримати атрибути використовуючи map_marketing_attribution
 
 -- dim_campaign DDL
 CREATE OR REPLACE TABLE dim_campaign (

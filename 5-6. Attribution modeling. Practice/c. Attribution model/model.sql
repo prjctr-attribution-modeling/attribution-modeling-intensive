@@ -1,5 +1,6 @@
 --============TASK============--
--- Finalize model adding a few more metrics
+--Фіналізуємо нашу модель атрибуції
+--ВАЖЛИВО. Конверсією вважаємо здійснення платежу в межах перших 28 днів
 
 -- fact_payment DDL
 CREATE OR REPLACE TABLE model (
@@ -20,27 +21,27 @@ CREATE OR REPLACE TABLE model (
     ,target_device
     ,target_course
     -- ACQUISITION METRICS
-    -- sum impressions
+    -- SUM(impressions)
     ,impressions
-    -- sum clicks
+    -- SUM(clicks)
     ,clicks
-    -- sum spend
+    -- SUM(spend)
     ,cost
-    -- calculate cost per click
+    -- розраховуємо ціну одного кліку (cost per click)
     ,cpc
-    -- sum acquired NPCs
+    -- кількість нових користувачів з хоча б одним платежем отриманих від маркетингової кампанії
     ,npcs
-    -- calculate cost for acquired NPCs
+    -- розраховуємо ціну залучення користувачів, що роблять покупки (customer acquisition cost), cost/npcs
     ,cac
-    -- sum conversions from marketing channel. Conversion window - 7 days
+    -- сумуємо кількість конверсій від маркетингової кампанії
     ,conversions
-    -- calculate cost per conversion (action)
+    -- рахуємо ціну конверсії (cost per action), cost/conversions
     ,cpa
     -- FINANCIAL METRICS
-    -- sum paid_amount. Conversion window - 7 days
+    -- SUM(paid_amount). Рахуємо тільки в межах вікна конверсії
     ,gmv
-    -- sum net_revenue. Conversion window - 7 days
+    -- SUM(net_revenue). В межах вікна конверсії
     ,net_revenue
-    -- subtract marketing costs from net_revenue. Conversion window - 7 days
+    -- мінусуємо витрати на маркетинг (залучення) від чистого прибутку (net_revenue). Прибуток в межах вікна конверсії
     ,gross margin
 )

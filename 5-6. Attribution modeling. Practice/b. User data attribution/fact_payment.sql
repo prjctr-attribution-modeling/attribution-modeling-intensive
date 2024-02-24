@@ -1,5 +1,7 @@
 --============TASK============--
---1. Calculate amount of curator fee and company gmv using payment.csv and curator_fee_pct from courses.csv
+--1. Розрахувати на основі payment
+--1.1. curator_fee (комісія викладача), використовуючи curator_fee_pct з courses
+--1.2. net_revenue = paid_amount - curator_fee
 
 -- fact_payment DDL
 CREATE OR REPLACE TABLE fact_payment (

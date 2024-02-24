@@ -1,7 +1,7 @@
 --============TASK============--
---1. Gather user dimensions and enrich with marketing dimensions and financial metrics.
---1.1. JOIN dim_campaign for marketing dimensions.
---1.2. JOIN fact_payment for financial metrics
+--Збагачуємо дані про користувачів
+--1. JOIN dim_campaign, щоб додати маркетингову атрибуцію
+--2. JOIN fact_payment, щоб додати фінансові метрики
 
 -- fact_payment DDL
 CREATE OR REPLACE TABLE rep_user (
@@ -27,10 +27,10 @@ CREATE OR REPLACE TABLE rep_user (
     ,target_course varchar(64)
     ,first_course_name varchar(64)
     ,last_course_name varchar(64)
-    -- TRUE if user has at least one payment
+    -- TRUE, якщо користувач зробив хоча б один платіж
     ,is_npc boolean
-    -- sum paid_amount from fact_payment
+    -- SUM(paid_amount)
     ,gmv numeric(38,2)
-    -- sum net_revenue from fact_payment
+    -- SUM(net_revenue)
     ,net_revenue numeric(38,2)
 )
