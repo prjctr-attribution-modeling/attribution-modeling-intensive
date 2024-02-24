@@ -10,5 +10,5 @@ CREATE OR REPLACE TABLE fact_payment (
     ,course_id varchar(32)
     ,paid_amount numeric(38,2)
     ,curator_fee numeric(38,2)
-    ,gmv numeric(38,2)
+    ,net_revenue numeric(38,2)
 )
