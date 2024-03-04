@@ -34,3 +34,13 @@
 Матеріали вже містять список таблиць, що необхідно побудувати для отримання фінальної моделі атрибуції.
 Рекомендовано рухатися згідно структури матеріалів, почавши з опрацювання маркетингової статистики, далі внутрішні дані, і на завершення вже безпосередньо сама модель.
 Кожен заздалегідь підготований `.sql` файл містить додаткові інструкції, щодо кожної таблиці та рекомендованої її структури. 
+
+1. [Marketing data](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/tree/main/5-6.%20Attribution%20modeling.%20Practice/a.%20Marketing%20data%20attribtuion)
+   1. [dim_campaign.sql](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/a.%20Marketing%20data%20attribtuion/dim_campaign.sql)
+   2. [rep_marketing_performance.sql](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/a.%20Marketing%20data%20attribtuion/rep_marketing_performance.sql)
+2. [User data](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/tree/main/5-6.%20Attribution%20modeling.%20Practice/b.%20User%20data%20attribution)
+   1. [dim_user.sql](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/b.%20User%20data%20attribution/dim_user.sql)
+   2. [fact_payment.sql](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/b.%20User%20data%20attribution/fact_payment.sql)
+   3. [rep_user.sql](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/b.%20User%20data%20attribution/rep_user.sql)
+3. [Attribution model](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/tree/main/5-6.%20Attribution%20modeling.%20Practice/c.%20Attribution%20model)
+   1. [model.sql](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/c.%20Attribution%20model/model.sql)
