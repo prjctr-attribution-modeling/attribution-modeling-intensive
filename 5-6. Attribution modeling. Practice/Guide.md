@@ -20,15 +20,15 @@
 ## Вхідні дані
 Для роботи над проектом запропонований набір фейкових даних. Наш кейс - веб-сайт для онлайн-курсів.
 ### Marketing data
-- `marketing_google.csv` - статистика Google Ads кампаній 
-- `marketing_facebook.csv` - статистика Facebook Ads кампаній 
-- `map_marketing_attribution.csv` - мапінг для атрибуції маркетингових кампаній
-- `map_country.csv` - мапінг для нормалізації значення `country_code` 
+- [marketing_google.csv](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/a.%20Marketing%20data%20attribtuion/data/marketing_google.csv) - статистика Google Ads кампаній 
+- [marketing_facebook.csv](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/a.%20Marketing%20data%20attribtuion/data/marketing_facebook.csv) - статистика Facebook Ads кампаній 
+- [map_marketing_attribution.csv](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/a.%20Marketing%20data%20attribtuion/data/map_marketing_attribution.csv) - мапінг для атрибуції маркетингових кампаній
+- [map_country.csv](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/a.%20Marketing%20data%20attribtuion/data/map_country.csv) - мапінг для нормалізації значення `country_code` 
 ### User data
-- `user.csv` - зареєстрованні користувачі + корисні дані
-- `course.csv` - наявні онлайн-курси
-- `payment.csv` - платежі здійсненні користувачами для оплати курсів
-- `map_source_medium.csv` - мапінг для атрибуції користувачів та змоги прив'язати до відповідного маркетингового каналу.
+- [user.csv](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/b.%20User%20data%20attribution/data/user.csv) - зареєстрованні користувачі + корисні дані
+- [course.csv](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/b.%20User%20data%20attribution/data/course.csv) - наявні онлайн-курси
+- [payment.csv](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/b.%20User%20data%20attribution/data/payment.csv) - платежі здійсненні користувачами для оплати курсів
+- [map_source_medium.csv](https://github.com/prjctr-attribution-modeling/attribution-modeling-intensive/blob/main/5-6.%20Attribution%20modeling.%20Practice/b.%20User%20data%20attribution/data/map_source_medium.csv) - мапінг для атрибуції користувачів та змоги прив'язати до відповідного маркетингового каналу.
 
 ## Побудова моделі
 Матеріали вже містять список таблиць, що необхідно побудувати для отримання фінальної моделі атрибуції.
